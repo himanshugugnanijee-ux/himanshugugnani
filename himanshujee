@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA Himanshu | Chartered Accountant</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header {
+            background: #0a3d62;
+            color: #fff;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav {
+            background: #3c6382;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 40px;
+        }
+        .hero {
+            background: #f1f2f6;
+            text-align: center;
+        }
+        .services {
+            background: #f8f9fa;
+        }
+        .services div {
+            margin-bottom: 15px;
+        }
+        footer {
+            background: #0a3d62;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        .btn {
+            background: #0a3d62;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CA Himanshu Gugnani</h1>
+    <p>Chartered Accountant | Tax Consultant | Financial Advisor</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Professional Financial & Tax Solutions</h2>
+    <p>Helping individuals and businesses manage taxes, compliance, and growth.</p>
+    <a href="#contact" class="btn">Get Consultation</a>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am a qualified Chartered Accountant with over 10 years of experience in taxation, accounting, and financial advisory. 
+        I specialize in providing practical and result-oriented solutions to individuals, startups, and businesses.
+    </p>
+</section>
+
+<section id="services" class="services">
+    <h2>My Services</h2>
+    <div>✔ Income Tax Filing & Planning</div>
+    <div>✔ GST Registration & Returns</div>
+    <div>✔ Business Accounting & Bookkeeping</div>
+    <div>✔ Financial Consulting</div>
+    <div>✔ Company Registration & Compliance</div>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: your@email.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Location: Delhi, India</p>
+</section>
+
+<footer>
+    <p>© 2026 CA Himanshu Gugnani | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
